@@ -232,22 +232,21 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 ## Facility and capacities
 
-<img src="./assets/facility.jpg" alt="Biena cGMP facility" width="100%" />
-
-<br />
-
-<p align="center">
-  <strong>5,000 m2 state-of-the-art cGMP facility</strong> - Saint-Hyacinthe, Quebec, Canada<br />
-  <em>R&D, Quality, Manufacturing, Customer service - all in-house.</em>
-</p>
+<p align="center"><em>5,000 m² state-of-the-art cGMP facility — R&D, Quality, Manufacturing and Customer service, all in-house.</em></p>
 
 <br />
 
 <div align="center">
 
-| **50+** | **500 T** | **600 T** | **2 B** | **1 B** | **15 K** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| strains | powder | formulated | capsules/yr | chewable/yr | blisters/yr |
+<img src="./assets/facility-capacities.png" alt="Biena facility location and production capacities" width="100%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+[![Our facility](https://img.shields.io/badge/Our_facility-biena.com-3BD7C6?style=for-the-badge&labelColor=172544)](https://biena.com/our-facility/)
 
 </div>
 
