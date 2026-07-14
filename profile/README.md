@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Biena-Inc/.github/main/profile/assets/logo-biena-navy.svg" alt="" width="240" />
+<img src="./assets/logo-biena-navy.svg" alt="" width="240" />
 
 <br /><br />
 
@@ -59,7 +59,7 @@ We recognize the challenges of launching a new product — every engagement is d
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Biena-Inc/.github/main/profile/assets/ellipse-1.png" alt="" width="200" />
+<img src="./assets/ellipse-1.png" alt="" width="200" />
 
 </td>
 </tr>
@@ -79,7 +79,7 @@ We recognize the challenges of launching a new product — every engagement is d
 
 ### Science is our strength
 
-<img src="https://raw.githubusercontent.com/Biena-Inc/.github/main/profile/assets/img-1.png" alt="" width="120" />
+<img src="./assets/img-1.png" alt="" width="120" />
 
 <br />
 
@@ -94,7 +94,7 @@ We recognize the challenges of launching a new product — every engagement is d
 
 ### The power of our strains
 
-<img src="https://raw.githubusercontent.com/Biena-Inc/.github/main/profile/assets/img-2.png" alt="" width="120" />
+<img src="./assets/img-2.png" alt="" width="120" />
 
 <br />
 
@@ -122,7 +122,7 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Biena-Inc/.github/main/profile/assets/360-offer-flow.png" alt="Biena 360 offer process flow" width="100%" />
+<img src="./assets/360-offer-flow.png" alt="Biena 360 offer process flow" width="100%" />
 
 </div>
 
@@ -232,7 +232,7 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 ## Facility and capacities
 
-<img src="https://raw.githubusercontent.com/Biena-Inc/.github/main/profile/assets/facility.jpg" alt="Biena cGMP facility" width="100%" />
+<img src="./assets/facility.jpg" alt="Biena cGMP facility" width="100%" />
 
 <br />
 
@@ -323,7 +323,7 @@ Biena proudly supports the [**Canadian Wildlife Federation**](https://cwf-fcf.or
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Biena-Inc/.github/main/profile/assets/logo-biena-navy.svg" alt="" width="140" />
+<img src="./assets/logo-biena-navy.svg" alt="" width="140" />
 
 <br /><br />
 
