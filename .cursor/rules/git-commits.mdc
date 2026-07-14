@@ -1,0 +1,12 @@
+---
+description: Git commits — author attribution only
+globs:
+alwaysApply: true
+---
+
+# Commits Git
+
+- Ne jamais ajouter `Co-authored-by: Cursor` ni aucune attribution Cursor dans les messages de commit.
+- Utiliser uniquement un message simple : `git commit -m "message"`
+- L'auteur du commit doit rester l'utilisateur uniquement.
+- Un hook `commit-msg` local retire automatiquement toute ligne `Co-authored-by: Cursor` si elle est injectée.
