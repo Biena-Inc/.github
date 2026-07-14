@@ -5,11 +5,15 @@
 
 <div align="center">
 
-<img src="./assets/logo-biena-navy.svg" alt="" width="240" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-biena.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-biena-navy.svg">
+  <img src="./assets/logo-biena-navy.svg" alt="Biena" width="240">
+</picture>
 
 <br /><br />
 
-**DEDICATED TO QUALITY PROBIOTICS**
+<p style="color:#6e7681"><strong>DEDICATED TO QUALITY PROBIOTICS</strong></p>
 
 <br />
 
@@ -17,9 +21,11 @@
 
 <br />
 
+<p style="color:#6e7681">
 Leading producer and distributor of bacterial cultures — innovative solutions<br />
 and personalized service from ideation to market readiness.<br />
-**30 years** of expertise since **1996**.
+<strong>30 years</strong> of expertise since <strong>1996</strong>.
+</p>
 
 <br />
 
@@ -50,11 +56,13 @@ and personalized service from ideation to market readiness.<br />
 <tr>
 <td width="60%" valign="top">
 
-Based in **Saint-Hyacinthe, Quebec, Canada**, we support the health and food industries with exceptional probiotic strains and cultures that set brands apart.
+<p style="color:#6e7681">Based in <strong>Saint-Hyacinthe, Quebec, Canada</strong>, we support the health and food industries with exceptional probiotic strains and cultures that set brands apart.</p>
 
-We recognize the challenges of launching a new product — every engagement is designed as a **seamless, end-to-end journey** from strain selection to ready-to-market formulation.
+<p style="color:#6e7681">We recognize the challenges of launching a new product — every engagement is designed as a <strong>seamless, end-to-end journey</strong> from strain selection to ready-to-market formulation.</p>
 
-> *Wellness is embedded in our name. We contribute positively to society and promote **360-degree well-being** — through science, quality, and care.*
+<blockquote>
+<p style="color:#6e7681"><em>Wellness is embedded in our name. We contribute positively to society and promote <strong>360-degree well-being</strong> — through science, quality, and care.</em></p>
+</blockquote>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -83,7 +91,7 @@ We recognize the challenges of launching a new product — every engagement is d
 
 <br />
 
-**30 years** of production expertise. Our R&D team stays agile — incorporating the latest scientific discoveries to deliver state-of-the-art solutions.
+<p style="color:#6e7681"><strong>30 years</strong> of production expertise. Our R&D team stays agile — incorporating the latest scientific discoveries to deliver state-of-the-art solutions.</p>
 
 <br />
 
@@ -98,7 +106,7 @@ We recognize the challenges of launching a new product — every engagement is d
 
 <br />
 
-Not your average probiotic. **Naturally sourced, top-quality ingredients** in every dose — backed by **1,000+ characterized strains**.
+<p style="color:#6e7681">Not your average probiotic. <strong>Naturally sourced, top-quality ingredients</strong> in every dose — backed by <strong>1,000+ characterized strains</strong>.</p>
 
 <br />
 
@@ -116,7 +124,7 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 ## Our 360 offer
 
-<p align="center"><em>Everything under the same roof — complete process oversight, from idea to perfect solution.</em></p>
+<p align="center" style="color:#6e7681"><em>Everything under the same roof — complete process oversight, from idea to perfect solution.</em></p>
 
 <br />
 
@@ -142,7 +150,7 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 ## Products
 
-<p align="center"><em>Three product lines — one integrated partner, from strain to shelf.</em></p>
+<p align="center" style="color:#6e7681"><em>Three product lines — one integrated partner, from strain to shelf.</em></p>
 
 <br />
 
@@ -154,13 +162,15 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 <br />
 
-**1,000+ strains** in our ever-growing bank
+<p style="color:#6e7681"><strong>1,000+ strains</strong> in our ever-growing bank</p>
 
 <br />
 
+<p style="color:#6e7681">
 - Selection and characterization<br />
 - Stability and concentration<br />
 - Custom formula development
+</p>
 
 <br />
 
@@ -173,13 +183,15 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 <br />
 
-**300+ dairy strains** and vegan alternatives
+<p style="color:#6e7681"><strong>300+ dairy strains</strong> and vegan alternatives</p>
 
 <br />
 
+<p style="color:#6e7681">
 - Cheese, kefir and yogurt cultures<br />
 - Mesophilic and thermophilic strains<br />
 - Non-dairy milk fermentation
+</p>
 
 <br />
 
@@ -192,13 +204,15 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 <br />
 
-**Trademarked solutions** for fast time-to-market
+<p style="color:#6e7681"><strong>Trademarked solutions</strong> for fast time-to-market</p>
 
 <br />
 
+<p style="color:#6e7681">
 - WCFS1, First flora<br />
 - Bioprotics, Protec-IF<br />
 - Yogotherm
+</p>
 
 <br />
 
@@ -232,7 +246,7 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 ## Facility and capacities
 
-<p align="center"><em>5,000 m² state-of-the-art cGMP facility — R&D, Quality, Manufacturing and Customer service, all in-house.</em></p>
+<p align="center" style="color:#6e7681"><em>5,000 m² state-of-the-art cGMP facility — R&D, Quality, Manufacturing and Customer service, all in-house.</em></p>
 
 <br />
 
@@ -258,7 +272,7 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 ## Quality management
 
-<p align="center"><em>We hit the highest standards with full transparency and care.</em></p>
+<p align="center" style="color:#6e7681"><em>We hit the highest standards with full transparency and care.</em></p>
 
 <br />
 
@@ -275,11 +289,13 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 <br />
 
-- **Inspection and Auditing** - internal and third-party
-- **Regulatory Compliance** - registered in 50+ countries
-- **Intellectual Property** - innovation and protection
-- **Security and Conformance** - testing at every stage
-- **SMETA 4-Pillar** - ethical business practices
+<p style="color:#6e7681">
+- <strong>Inspection and Auditing</strong> - internal and third-party<br />
+- <strong>Regulatory Compliance</strong> - registered in 50+ countries<br />
+- <strong>Intellectual Property</strong> - innovation and protection<br />
+- <strong>Security and Conformance</strong> - testing at every stage<br />
+- <strong>SMETA 4-Pillar</strong> - ethical business practices
+</p>
 
 <br />
 
@@ -289,7 +305,7 @@ Not your average probiotic. **Naturally sourced, top-quality ingredients** in ev
 
 ## Our commitment
 
-Biena proudly supports the [**Canadian Wildlife Federation**](https://cwf-fcf.org/) in its mission to protect wildlife and habitat — contributing to a better world for future generations.
+<p style="color:#6e7681">Biena proudly supports the <a href="https://cwf-fcf.org/"><strong>Canadian Wildlife Federation</strong></a> in its mission to protect wildlife and habitat — contributing to a better world for future generations.</p>
 
 [![Our Work Ethics](https://img.shields.io/badge/Our_Work_Ethics-Explore-3BD7C6?style=for-the-badge&labelColor=172544)](https://biena.com/responsabilities/)
 
@@ -305,7 +321,7 @@ Biena proudly supports the [**Canadian Wildlife Federation**](https://cwf-fcf.or
 
 | **Address** | **Phone** | **Email** | **Hours** |
 |:---|:---|:---|:---|
-| 2955 Cartier<br />Saint-Hyacinthe, QC<br />J2S 1L4, Canada | [450.778.5505](tel:4507785505)<br />Fax: 450.773.0633 | [info@biena.com](mailto:info@biena.com) | Mon - Fri<br />8am - 5pm |
+| <span style="color:#6e7681">2955 Cartier<br />Saint-Hyacinthe, QC<br />J2S 1L4, Canada</span> | <span style="color:#6e7681">[450.778.5505](tel:4507785505)<br />Fax: 450.773.0633</span> | [info@biena.com](mailto:info@biena.com) | <span style="color:#6e7681">Mon - Fri<br />8am - 5pm</span> |
 
 <br />
 
@@ -322,11 +338,15 @@ Biena proudly supports the [**Canadian Wildlife Federation**](https://cwf-fcf.or
 
 <div align="center">
 
-<img src="./assets/logo-biena-navy.svg" alt="" width="140" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-biena.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-biena-navy.svg">
+  <img src="./assets/logo-biena-navy.svg" alt="Biena" width="140">
+</picture>
 
 <br /><br />
 
-**From our strains to your marketed product.**
+<p style="color:#6e7681"><strong>From our strains to your marketed product.</strong></p>
 
 <br />
 
@@ -336,6 +356,6 @@ Biena proudly supports the [**Canadian Wildlife Federation**](https://cwf-fcf.or
 
 <br /><br />
 
-<sub>Saint-Hyacinthe, Quebec, Canada - Dedicated to Quality Probiotics</sub>
+<sub style="color:#6e7681">Saint-Hyacinthe, Quebec, Canada - Dedicated to Quality Probiotics</sub>
 
 </div>
